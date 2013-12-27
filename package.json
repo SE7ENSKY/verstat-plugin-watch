@@ -1,0 +1,8 @@
+{
+  "name": "verstat-plugin-watch",
+  "version": "1.0.0",
+  "dependencies": {
+    "watch": "~0.8.0",
+    "async": "~0.2.9"
+  }
+}
